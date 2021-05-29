@@ -19,6 +19,7 @@ class CalculatorActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.calculator_layout)
         editText = findViewById(R.id.number_edit_text);
+//        test
 
     }
 
