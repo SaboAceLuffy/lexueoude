@@ -20,6 +20,7 @@ class CalculatorActivity : AppCompatActivity() {
         setContentView(R.layout.calculator_layout)
         editText = findViewById(R.id.number_edit_text);
 //        test
+//        test
 
     }
 
