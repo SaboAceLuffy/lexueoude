@@ -21,7 +21,7 @@ class CalculatorActivity : AppCompatActivity() {
         editText = findViewById(R.id.number_edit_text);
 //        test
 //        test
-
+//        master 注释1
     }
 
     fun operationFunction(view: View) {
