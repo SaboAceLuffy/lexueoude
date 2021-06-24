@@ -23,12 +23,15 @@ class CalculatorActivity : AppCompatActivity() {
 //        test
 //        test
 //        master 注释1
+        //dev_lxianj
     }
 
     fun test(){
 
     }
+    fun test2(){
 
+    }
     fun operationFunction(view: View) {
         when (view.id) {
 
