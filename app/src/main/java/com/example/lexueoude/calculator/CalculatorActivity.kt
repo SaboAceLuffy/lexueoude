@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.EditText
+import android.widget.Toast
 import com.example.lexueoude.R
 
 class CalculatorActivity : AppCompatActivity() {
@@ -22,6 +23,10 @@ class CalculatorActivity : AppCompatActivity() {
 //        test
 //        test
 //        master 注释1
+    }
+
+    fun test(){
+
     }
 
     fun operationFunction(view: View) {
