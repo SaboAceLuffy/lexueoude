@@ -29,7 +29,9 @@ class CalculatorActivity : AppCompatActivity() {
     fun test(){
 
     }
+    fun test2(){
 
+    }
     fun operationFunction(view: View) {
         when (view.id) {
 
